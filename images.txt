@@ -1,3 +1,2 @@
-pgvector/pgvector:pg16
 vectorizeai/hindsight-client:latest
 
