@@ -1,1 +1,3 @@
-openjdk:8-jre-slim
+vectorizeai/hindsight-api:latest
+vectorizeai/hindsight-client:latest
+pgvector/pgvector:pg16
