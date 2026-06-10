@@ -1,2 +1,1 @@
-ghcr.io/vectorize-io/hindsight-all:latest
-
+ghcr.io/vectorize-io/hindsight:latest
